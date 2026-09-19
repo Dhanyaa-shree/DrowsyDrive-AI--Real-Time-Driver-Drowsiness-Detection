@@ -1,4 +1,4 @@
-# 🧠 DrowsyDrive AI
+# 🛡️ DrowsyDrive AI
 
 ### Safer Roads, Smarter AI
 
@@ -183,4 +183,4 @@ Models/
 
 ---
 
-<p align="center"> <strong>🧠 DrowsyDrive AI</strong><br> <em>Safer Roads, Smarter AI</em><br><br> <strong>Detect Early. Prevent Accidents.</strong><br><br> Made with ❤️ using PyTorch, React & Computer Vision </p>
+<p align="center"> <strong>🛡️ DrowsyDrive AI</strong><br> <em>Safer Roads, Smarter AI</em><br><br> <strong>Detect Early. Prevent Accidents.</strong><br><br> Made with ❤️ using PyTorch, React & Computer Vision </p>
