@@ -1,0 +1,25 @@
+{
+  "classes": [
+    "Closed",
+    "Open",
+    "no_yawn",
+    "yawn"
+  ],
+  "cls2idx": {
+    "Closed": 0,
+    "Open": 1,
+    "no_yawn": 2,
+    "yawn": 3
+  },
+  "idx2stage": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "0": 2
+  },
+  "stage_labels": [
+    "Alert",
+    "Mild Fatigue",
+    "Severe Fatigue"
+  ]
+}
